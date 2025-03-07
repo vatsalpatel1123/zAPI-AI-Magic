@@ -6,7 +6,10 @@ openpyxl
 streamlit-tags
 supabase
 streamlit
-streamlit-tags
 crawl4ai
 fastapi
 uvicorn
+requests
+selenium
+beautifulsoup4
+lxml
