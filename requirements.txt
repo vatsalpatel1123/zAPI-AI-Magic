@@ -8,3 +8,5 @@ supabase
 streamlit
 streamlit-tags
 crawl4ai
+fastapi
+uvicorn
